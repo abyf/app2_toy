@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,7 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# HartlRuby
->>>>>>> 17ab8fa5b562b6bddd89dfd27e6dbfb1a7382b37
-# app2_toy
